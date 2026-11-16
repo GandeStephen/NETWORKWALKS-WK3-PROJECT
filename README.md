@@ -77,6 +77,7 @@ The screenshots below provide visual verification of the password recovery proce
 <img width="720" height="1600" alt="1000178502" src="https://github.com/user-attachments/assets/7387b83b-0f5a-414f-8455-dff80aef9097" />
 <img width="282" height="389" alt="1000178658" src="https://github.com/user-attachments/assets/645360b6-6309-4de4-8f1c-ce28f86f5fb5" />
 
+Screenshot_20261116_105326_Chrome.jpg -->
    Educational Disclaimer
 I compiled this documentation strictly for educational purposes and to showcase my hands-on cybersecurity practical skills developed through authorized coursework on Networkwalks. Password cracking and security auditing techniques must only be performed on systems and files with explicit authorization.
 
